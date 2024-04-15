@@ -24,7 +24,10 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=javascript,python,java,react,vue,express,selenium,gitlab,jenkins" /><br>
 </div>
 

@@ -17,7 +17,7 @@
 Enthusiastic about technology, I have a passion for web development and uphold high-quality practices throughout the entire lifecycle of a product. 
 
 - 🔭 I’m currently working on **React and Vue.js**
-- 🌱 I’m currently learning **Selenium WebDriver, Python, & Web App Development**
+- 🌱 I’m currently learning **Next.js 14, Python, Appium**
 - 💬 Ask me about **React and Vue.js**
 - 📫 How to reach me: carlosestelablanco@gmail.com
 

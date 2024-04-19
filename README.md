@@ -46,6 +46,13 @@ Enthusiastic about technology, I have a passion for web development and uphold h
       </thead>
       <tbody>
         <tr>
+          <td><a href="https://github.com/cestela/we-do-vue"><b>Wedding Planner PWA</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/we-do-vue?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/we-do-vue?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/we-do-vue?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/we-do-vue?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/cestela/socialised"><b>Picture sharing social media </b></a></td>
           <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/socialised?style=flat-square&labelColor=343b41"/></td>

@@ -66,13 +66,6 @@ Enthusiastic about technology, I have a passion for web development and uphold h
           <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
         </tr>
-        <tr>
-          <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Instacart Crawler - QA</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-        </tr>
       </tbody>
     </table>
     
